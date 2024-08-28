@@ -1,4 +1,10 @@
 exports.config = {
+    
+    capabilities: [{
+        browserName: 'chrome'
+    }],
+    
+    
     //
     // ====================
     // Runner Configuration
