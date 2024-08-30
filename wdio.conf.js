@@ -7,6 +7,12 @@ exports.config = {
         }
     }],
     
+    reporters: [['junit',{
+        outputDir: './reports/e2e-report/',
+        outputFileFormat: function(options) {
+            return 'junit-report.xml'
+        }
+    }]],
     
     //
     // ====================
