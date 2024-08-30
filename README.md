@@ -3,7 +3,7 @@ This provides the frontend for the Timesheet manager support app for the Automat
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts for use
 
 In the project directory, you can run :
 
