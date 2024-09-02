@@ -1,9 +1,6 @@
 name: NodeJS CI
 
-on:
-  push:
-    branches-ignore:
-      - 'Error-checking-example'
+on: [push]
 
 jobs:
  build:
